@@ -1,0 +1,28 @@
+{
+  "name": "pinterest-scrap",
+  "version": "1.0.0",
+  "description": "Um scrapper de perfis do pinterest",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raiizinho/pinterest-scrap.git"
+  },
+  "keywords": [
+    "pinterest",
+    "scrapper"
+  ],
+  "author": "raiizinho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raiizinho/pinterest-scrap/issues"
+  },
+  "homepage": "https://github.com/raiizinho/pinterest-scrap#readme",
+  "dependencies": {
+    "axios": "^1.8.3",
+    "cheerio": "^1.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
